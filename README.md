@@ -8,3 +8,5 @@ This notebook takes previously saved files, Merged_Feature.csv and Labels.csv, a
 
 ## Genesis of Cyber Threats: Identify Unknown Threat Groups.ipynb
 This notebook takes known and unknown datasets and evaluates optimal precision scores for the thresholding Mechanism. Further, it links both known and unknown threat group samples
+
+## The Paper has been accepted to **The IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS-ISA) 2024**
